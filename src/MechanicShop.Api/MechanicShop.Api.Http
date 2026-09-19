@@ -1,0 +1,8 @@
+@baseUrl = https://localhost:7080
+
+
+GET https://localhost:7080/openapi/v1.json
+
+###
+
+GET{{baseUrl}}/v1/Customers
